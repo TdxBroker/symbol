@@ -6,4 +6,4 @@ TdxBroker.exe /S /Q
 
 note :
 /S -- Stock Only
-/Q -- no promtp "pause"
+/Q -- no "pause"
